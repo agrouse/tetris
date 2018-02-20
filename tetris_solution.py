@@ -22,7 +22,7 @@ def printInstructions():
     print("Use the arrow keys to move Left, Right, and Down.")
     print("Press Up to rotate counter-clockwise")
     print("Press 'r' to restart.")
-    print("Press 'q' to end the game.")
+    print("Press 'q' to end the game yent.")
 
 def tetrisPieces():
     iPiece = [[ True,  True,  True,  True]]
